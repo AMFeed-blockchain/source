@@ -11,6 +11,7 @@ AMFeed has developed an X11 Blockchain to further its goals of providing visuall
 
 
 Token Specs
+
 Algorithm: X11
 Block type: Proof-of-Work
 Coin name: AMFeed
