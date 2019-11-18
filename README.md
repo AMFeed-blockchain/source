@@ -34,8 +34,6 @@ Coin supply: 252,468,426
 Premine amount: 112,358 coins
 
 
-Useful Links
-
 Amfeed Block Explorer: http://explorer.amfeed.com/
 
 AmFeed Messenger: https://chat.amfeed.com/
