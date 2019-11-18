@@ -13,14 +13,24 @@ AMFeed has developed an X11 Blockchain to further its goals of providing visuall
 Token Specs
 
 Algorithm: X11
+
+
 Block type: Proof-of-Work
+
 Coin name: AMFeed
+
 Coin abbreviation: AMF
+
 RPC port: 11355
+
 P2P port: 11356
+
 Block reward: 1123 coins
+
 Block halving: 112358 blocks
+
 Coin supply: 252,468,426
+
 Premine amount: 112,358 coins
 
 Useful Links
