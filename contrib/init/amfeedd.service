@@ -1,0 +1,22 @@
+[Unit]
+Description=AMFeed's distributed currency daemon
+After=network.target
+
+[Service]
+User=amfeedcore
+Group=amfeedcore
+
+Type=forking
+PIDFile=/var/lib/amfeedd/amfeedd.pid
+ExecStart=/usr/bin/amfeedd -daemon -pid=/var/lib/amfeedd/amfeedd.pid \
+-conf=/etc/amfeedcore/amfeed.conf -datadir=/var/lib/amfeedd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target

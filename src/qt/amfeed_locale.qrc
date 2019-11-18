@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/amfeed_ar.qm</file>
+        <file alias="bg">locale/amfeed_bg.qm</file>
+        <file alias="de">locale/amfeed_de.qm</file>
+        <file alias="en">locale/amfeed_en.qm</file>
+        <file alias="es">locale/amfeed_es.qm</file>
+        <file alias="fi">locale/amfeed_fi.qm</file>
+        <file alias="fr">locale/amfeed_fr.qm</file>
+        <file alias="it">locale/amfeed_it.qm</file>
+        <file alias="ja">locale/amfeed_ja.qm</file>
+        <file alias="ko">locale/amfeed_ko.qm</file>
+        <file alias="nl">locale/amfeed_nl.qm</file>
+        <file alias="pl">locale/amfeed_pl.qm</file>
+        <file alias="pt">locale/amfeed_pt.qm</file>
+        <file alias="ru">locale/amfeed_ru.qm</file>
+        <file alias="sk">locale/amfeed_sk.qm</file>
+        <file alias="sv">locale/amfeed_sv.qm</file>
+        <file alias="th">locale/amfeed_th.qm</file>
+        <file alias="tr">locale/amfeed_tr.qm</file>
+        <file alias="vi">locale/amfeed_vi.qm</file>
+        <file alias="zh_CN">locale/amfeed_zh_CN.qm</file>
+        <file alias="zh_TW">locale/amfeed_zh_TW.qm</file>
+    </qresource>
+</RCC>

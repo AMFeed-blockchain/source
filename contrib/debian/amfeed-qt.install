@@ -1,0 +1,6 @@
+usr/local/bin/amfeed-qt usr/bin
+share/pixmaps/amfeed32.xpm usr/share/pixmaps
+share/pixmaps/amfeed16.xpm usr/share/pixmaps
+share/pixmaps/amfeed128.png usr/share/pixmaps
+debian/amfeed-qt.desktop usr/share/applications
+debian/amfeed-qt.protocol usr/share/kde4/services/

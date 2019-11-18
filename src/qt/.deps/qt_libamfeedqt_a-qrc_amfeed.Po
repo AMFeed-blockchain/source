@@ -1,0 +1,4 @@
+qt/qt_libamfeedqt_a-qrc_amfeed.o: qt/qrc_amfeed.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:
